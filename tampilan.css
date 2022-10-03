@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins';
+    text-decoration: none;
+}
+
+body{
+    background: linear-gradient(#FFB800, white);
+    height: 100vh;
+}
+
+p{
+    position: absolute;
+    right: 37%;
+    font-size: 80px;
+    margin-top: 100px;
+}
+
+img{
+    width: 250px;
+}
+
+.hero{
+    color: white;
+    text-align: center;
+    margin: 50px;
+    margin-bottom: 5000px;
+    font-family: 'poppins';
+}
+
+button{
+    margin-top: 300px;
+    padding: 5px;
+    border-radius: 7px;
+    width: 140px;
+    height: 37px;
+    font-style: 'poppins';
+    border: none;
+    font-size: 15px;
+}
+
+.btn2{
+    margin-left: 35px;
+    background-color: #FFB800;
+}
+.btn1{
+    background-color: #FFB800;
+}
+

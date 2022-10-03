@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins';
+    text-decoration: none;
+}
+
+body{
+
+}
+
+.zsidebar{
+    background: #FFB800;
+    height: 100vh;
+    width: 275px;
+}
+
+.header-sidebar{
+    height: 50px;
+    color: bl;
+    padding-left: 55px;
+    padding-top: 14px;
+    font-size: 25px;
+    background-size: 55px;
+    background-repeat: no-repeat;
+    background-position: left;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    width: 2200px;
+    box-shadow: 0 0 10px black;
+}
+
+.sidebar-content{
+    margin: 20px 25px;
+}
+
+.p1{
+    margin-bottom: 27px 25px;
+}
+
+.p2{
+    background-color: grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.p3{
+    margin: 20px 25px;
+}
+
+.sidebar-content :hover{
+    background-color: black;
+    transition: 0.5s;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.title{
+    background: #FFB800;
+    color: black;
+}
+
